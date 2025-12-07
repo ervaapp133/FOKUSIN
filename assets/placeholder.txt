@@ -1,0 +1,2 @@
+# Assets folder
+File placeholder untuk menyimpan asset (ikon, font, dsb.)
